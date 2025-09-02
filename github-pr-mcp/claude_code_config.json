@@ -1,0 +1,10 @@
+{
+  "github-pr-reviewer": {
+    "command": "/opt/homebrew/bin/python3.12",
+    "args": ["/Users/lynn_kong/Desktop/github-pr-mcp/fastmcp_server.py"],
+    "env": {
+      "PYTHONPATH": "/Users/lynn_kong/Desktop/github-pr-mcp/venv/lib/python3.12/site-packages"
+    },
+    "cwd": "/Users/lynn_kong/Desktop/github-pr-mcp"
+  }
+}
